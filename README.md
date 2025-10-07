@@ -1,4 +1,4 @@
-## Hi there， I'm Hua (she/her) 👋
+## Hi there， I'm Hua (she/her) 👋 😄 Pronouns: huá
 
 UX/UI Designer ➜ learning full-stack (Html/Css/Tailwind/ JavaScript TypeScript · React · Express · MongoDB).  
 Based in Hamburg now. Open to UI/UX · Frontend · Design-Ops roles.
