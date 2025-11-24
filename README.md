@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Hua （Pronouns: huá）
-— Full-Stack Developer with a Strong Background in UX/UI Design
+— Full-Stack Developer with a Strong Background in UX/UI Design (http://www.guohuaswebsite.com)
 
 I'm a hybrid creator who bridges **design, develop, and product thinking**.  
 With a UI/UX foundation and full-stack development skills, I build digital products  
