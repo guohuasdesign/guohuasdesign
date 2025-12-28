@@ -70,21 +70,13 @@ Git · GitHub · Storybook · Render · Vercel · Postman · Notion
 
 ---
 
-## 📈 GitHub Stats
-
-![Hua's GitHub stats](https://github-readme-stats.vercel.app/api?username=guohuasdesign&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guohuasdesign&layout=compact&theme=radical)
-
----
-
 ## 💬 About Me
 
 🎨 Originally a **UI/UX Designer**, now evolving into a **Full-Stack Developer**  
 ⚡ I love building products that combine aesthetics with engineering  
 🌱 Currently learning: **Next.js, DesignOps, Multi-service architecture**  
 📍 Based in Hamburg, Germany  
-🐱 Cat lover & part-time cat sitter  
+🐱 Cat lover & free-time cat sitter/private chinese teacher  
 
 ---
 
