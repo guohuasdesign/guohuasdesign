@@ -25,7 +25,7 @@ Includes authentication, job filtering, host profiles, chat UI, and a complete b
 
 **Tech:** React + TS • Node.js • Express • MongoDB • Tailwind  
 **Roles:** UX Research • UI Design • Frontend • Backend  
-**Links:** *(add repo & live link)*
+**Links:** *[repo(https://github.com/BorisFeuze/Travel-Me) & live link:https://travel-me-2.onrender.com/)*
 
 ---
 
