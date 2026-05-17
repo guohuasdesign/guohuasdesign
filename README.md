@@ -8,24 +8,11 @@ that are **intuitive, accessible, and visually compelling**.
 ---
 
 ## 🚀 What I Do
-
 - **Frontend:** React, TypeScript, Next.js, Vite, Tailwind, DaisyUI  
 - **Backend:** Node.js, Express, MongoDB, REST APIs, Authentication  
 - **Design:** Figma, Design Systems, User Research, Interaction Design  
 - **Product:** Human-centered design, UX flows, information architecture  
 - **Tools:** Git/GitHub, Storybook, Render, Vercel, Agile ways (Kanban, Trello, Notion, Jira)
-
----
-## 🛠 Tech Stack
-
-**Frontend:**  
-React · TypeScript · Next.js · Vite · Tailwind CSS · DaisyUI · Framer Motion
-**Backend:**  
-Node.js · Express · MongoDB · Mongoose · REST APIs · JWT Auth
-**Design:**  
-Figma · Design Systems · UX Research · User Testing · Interaction Design
-**Tools:**  
-Git · GitHub · Storybook · Render · Vercel · Postman · Notion
 
 ---
 ## 💬 About Me
