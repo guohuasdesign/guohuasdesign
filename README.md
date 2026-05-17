@@ -17,43 +17,6 @@ that are **intuitive, accessible, and visually compelling**.
 
 ---
 
-## 🔥 Featured Projects
-
-### 🌍 **Travel Me — Travel & Work Exchange Platform**
-A full-stack platform enabling volunteers and hosts to connect through **skill-matching instead of money**.  
-Includes authentication, job filtering, host profiles, chat UI, and a complete backend system.
-
-**Tech:** React + TS • Node.js • Express • MongoDB • Tailwind  
-**Roles:** UX Research • UI Design • Frontend • Backend  
-**Links:** *[repo(https://github.com/BorisFeuze/Travel-Me) & live link:https://travel-me-2.onrender.com/)*
-
----
-
-### 🧘‍♀️ **Mona — Women-Friendly Financial Wellness App**
-A financial-mental-health app designed specifically for women.  
-Combines budgeting, emotional check-ins, financial stress detection,  
-well-being tracking, and habit-building features.
-
-Focuses on **female empowerment**, psychological safety, and  
-a soft, warm UI design system tailored to women’s financial behavior patterns.
-
-**Tech:** React • TypeScript • Tailwind • Node (planned)  
-**Roles:** Product Design • UX Strategy • UI Design System • Concept Architecture  
-**Links:** *(add repo or Figma link)*
-
----
-
-### 🐝 **Bee Good Design System — Component Library & Tokens**
-A design-to-code system built using **Figma Tokens + Storybook**.  
-Includes reusable components, scales, color tokens, typography, and  
-a consistent UI foundation for multi-product use.
-
-**Tech:** Storybook • React • Tailwind • Figma Tokens • DesignOps  
-**Roles:** Design System Architecture • UI Engineering  
-**Links:** *(add repo & demo link)*
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend:**  
